@@ -1,0 +1,12 @@
+[package]
+name = "rusty_learn"
+version = "0.1.0"
+authors = ["andrey"]
+edition = "2018"
+
+[dependencies]
+reqwest = "*"
+tempfile = "*"
+zip = "*"
+rustlearn = "*"
+time = "*"
