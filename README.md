@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/$andreyferriyan/rusty_learn.svg?branch=master)[https://travis-ci.org/andreyferriyan/rusty\_learn]
 **Rusty Learn**   
 
 Machine Learning with Rust. All the codes are from [rustbridge workshops](https://github.com/rust-community/rustbridge/tree/master/workshops/src/machine_learning)   
